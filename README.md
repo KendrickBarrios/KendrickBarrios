@@ -25,11 +25,11 @@ I'm a freelancer with a simple goal: to become the best developer I can, while p
 <img align="left" alt="IntelliJ Idea" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 <img align="left" alt="Neovim" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
 <br />
-
+<br />
 I use Devuan (Debian-based distro without Systemd, in my specific case, with SysVinit) as my daily driver, with Sway WM, Foot terminal and Neovim as my main editor. I also use IntelliJ Idea as my IDE for Java, and Android Studio for mobile development.
 
 ### My GitHub stats
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=KendrickBarrios&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=KendrickBarrios&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple)
 <br />
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=KendrickBarrios&layout=donut-vertical&langs_count=3&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=KendrickBarrios&layout=donut-vertical&langs_count=3&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=KendrickBarrios&layout=donut&langs_count=3&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=KendrickBarrios&layout=donut&langs_count=3&theme=midnight-purple)
